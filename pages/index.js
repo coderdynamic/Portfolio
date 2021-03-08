@@ -9,7 +9,7 @@ export default function Home() {
         <title>Yash Sangai</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div id="container" className="w-3/5 text-justify">
+      <div id="container" className="w-3/5">
         <main>
           <img className="w-40 h-40 rounded-full mx-auto" alt="Yash Sangai" src="/logo.png" />
           <h1 className="animate-bounce mt-8">
