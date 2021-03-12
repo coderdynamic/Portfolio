@@ -4,7 +4,7 @@ import 'tailwindcss/tailwind.css';
 
 export default function Home() {
   return (
-    <div id="Layout" className="h-screen flex justify-center items-center font-mono bg-white text-black dark:bg-black dark:text-white">
+    <div id="Layout" className="h-screen flex justify-center items-center font-mono text-black dark:text-white">
       <Head>
         <title>Yash Sangai</title>
         <link rel="icon" href="/favicon.ico" />
