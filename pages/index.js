@@ -7,6 +7,7 @@ export default function Home() {
     <div id="Layout" className="h-screen flex justify-center items-center font-mono text-black dark:text-white">
       <Head>
         <title>Yash Sangai</title>
+        <meta name="description" content="I am Yash Sangai, a Computer Science Engineer. Currently working with Unacademy.">
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div id="container" className="w-3/5">
