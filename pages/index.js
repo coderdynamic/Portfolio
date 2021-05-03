@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>Yash Sangai</title>
         <meta name="description" content="I am Yash Sangai, a Computer Science Engineer. Currently working with Unacademy." />
+        <meta name="google-site-verification" content="U0OqVgXH6xpWqHPOdM_rc6D3Q7zCbBK71iyCRbAT7tA" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div id="container" className="w-3/5">
