@@ -7,7 +7,7 @@ export default function Home() {
     <div id="Layout" className="h-screen flex justify-center items-center font-mono text-black dark:text-white">
       <Head>
         <title>Yash Sangai</title>
-        <meta name="description" content="I am Yash Sangai, a Computer Science Engineer. Currently working with Unacademy." />
+        <meta name="description" content="I am Yash Sangai, a Computer Science Engineer. Currently working as a Senior Frontend Engineer." />
         <meta name="google-site-verification" content="U0OqVgXH6xpWqHPOdM_rc6D3Q7zCbBK71iyCRbAT7tA" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -19,7 +19,7 @@ export default function Home() {
           </h1>
 
           <p className="mt-4">
-            I am Yash Sangai, a Web Developer and ReactJS Enthusiast. I am a Computer Science Engineer, currently working with <a className="underline" href="https://unacademy.com/" target="_blank">Unacademy</a>.<br/><br/>
+            I am Yash Sangai, a Web Developer and ReactJS Enthusiast. I am a Computer Science Engineer, currently working as a Senior Frontend Engineer🚀.<br/><br/>
             Have a look at my blogs in <a className="underline" href="https://medium.com/@yashSangai" target="_blank">Medium</a> or just connect with me on LinkedIn or Twitter. I am always excited to work on some awesome projects, message me and let's discuss over coffee!
           </p>
         </main>
