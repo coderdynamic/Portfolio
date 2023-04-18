@@ -19,7 +19,7 @@ export default function Home() {
           </h1>
 
           <p className="mt-4">
-            I am Yash Sangai, a Web Developer and ReactJS Enthusiast. I am a Computer Science Engineer, currently working as a Senior Frontend Engineer🚀.<br/><br/>
+            I am Yash Sangai, a Senior Frontend Engineer who is very passionate about frontend development based on Web or React Native Apps 🚀.<br/><br/>
             Have a look at my blogs in <a className="underline" href="https://medium.com/@yashSangai" target="_blank">Medium</a> or just connect with me on LinkedIn or Twitter. I am always excited to work on some awesome projects, message me and let's discuss over coffee!
           </p>
         </main>
